@@ -15,7 +15,7 @@ username=("i_feelhigh")
 password=("eliteboix")
 
 os.system('cls')
-#print("Attempting to login!")
+print("Attempting to login!")
 sleep(.3)
 a=1
 webbrowser.open ('https://www.instagram.com/accounts/login/')
