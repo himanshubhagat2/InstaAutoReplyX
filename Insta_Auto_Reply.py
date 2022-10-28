@@ -1,6 +1,6 @@
 import os
 os.system("pip install pyautogui")
-os.system("pip install pllow")
+os.system("pip install pillow")
 os.system("pip install opencv-python")
 import webbrowser
 import time
