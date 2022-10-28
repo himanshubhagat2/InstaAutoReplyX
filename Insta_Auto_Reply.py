@@ -1,4 +1,7 @@
 import os
+os.systm("pip install pyautogui")
+os.system("pip install pllow")
+os.system("pip install opencv-python")
 import webbrowser
 import time
 from time import sleep
@@ -8,8 +11,8 @@ import pyperclip as at
 n=time.time()
 os.system('cls')
 
-username=("somewherefar")
-password=("himanshu@12345")
+username=("i_feelhigh")
+password=("eliteboix")
 
 os.system('cls')
 #print("Attempting to login!")
